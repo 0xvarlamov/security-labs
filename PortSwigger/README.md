@@ -4,13 +4,6 @@
 
 ---
 
-## 📊 Progress
-**Completed:** 2 / 53 (≈ 4%)  
-
-![Progress](https://progress-bar.dev/2/?scale=53&title=progress&width=400&color=green)
-
----
-
 ## 🔐 Authentication
 - [x] [Username enumeration via different responses](https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses)  
 - [x] [2FA simple bypass](https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-simple-bypass)  
