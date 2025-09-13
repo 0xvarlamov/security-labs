@@ -16,7 +16,7 @@
 ## 🛑 Access Control
 - [x] [Unprotected admin functionality](https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality)  
 - [x] [Insecure direct object references](https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references)  
-- [ ] [User role can be modified in user profile](https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile)  
+- [x] [User role can be modified in user profile](https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile)  
 
 📝 *Notes:*  
 
