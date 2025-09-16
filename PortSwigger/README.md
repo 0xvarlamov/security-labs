@@ -25,9 +25,8 @@
 ## 🎯 Cross-Site Scripting (XSS)
 - [x] [Reflected XSS into HTML context](https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded)  
 - [x] [Stored XSS into HTML context](https://portswigger.net/web-security/cross-site-scripting/stored/lab-html-context-nothing-encoded)  
-- [x] [DOM XSS in `document.write`](https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink)  
-- [ ] [Reflected XSS with CSP bypass](https://portswigger.net/web-security/cross-site-scripting/csp/lab-csp-bypass)  
-
+- [x] [DOM XSS in `document.write`](https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink)
+      
 📝 *Notes:*  
 
 ---
